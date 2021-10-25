@@ -30,7 +30,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusestime&show_icons=true&locale=en&layout=compact" alt="jesusestime" /></p>
 <hr>
 <h3 align="left">Github Stats:</h3>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=jesusestime&show_icons=true&locale=en" alt="jesusestime" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=jesusestime&show_icons=true&locale=en" alt="pegasus03 /></p>
 <p align="left"><img SRC="code.gif" width="300" height="192"></p>
 <hr>
 <h3>Quote</h3>
