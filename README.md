@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm NDAGUHEREJE Jésus Estimé</h1>
 <h3 align="center">A passionate web developer from Burundi</h3>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estime257&label=Profile%20views&color=0e75b6&style=flat" alt="estime257" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusestime&label=Profile%20views&color=0e75b6&style=flat" alt="jesusestime" /> </p>
 - 🔭 I’m currently working on [Depot App](https://github.com/b3rking/depot-app)
 
 - 🌱 I’m currently learning **Php and Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Estime257](https://github.com/Estime257)
+- 👨‍💻 All of my projects are available at [https://github.com/jesusestime](https://github.com/jesusestime)
 
 - 💬 Ask me about **Php,Javascript,HTML and CSS**
 
@@ -27,10 +27,10 @@
 
 <hr>
 <h3 align="left">Most Used Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estime257&show_icons=true&locale=en&layout=compact" alt="estime257" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusestime&show_icons=true&locale=en&layout=compact" alt="jesusestime" /></p>
 <hr>
 <h3 align="left">Github Stats:</h3>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=estime257&show_icons=true&locale=en" alt="estime257" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=jesusestime&show_icons=true&locale=en" alt="jesusestime" /></p>
 <p align="left"><img SRC="code.gif" width="300" height="192"></p>
 <hr>
 <h3>Quote</h3>
