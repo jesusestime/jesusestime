@@ -27,11 +27,15 @@
 
 <hr>
 <h3 align="left">Most Used Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusestime&show_icons=true&locale=en&layout=compact" alt="jesusestime" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusestime&count_private=true&langs_count=10&theme=tokyonight&layout=compact&hide=html,css" alt="jesusestime :: Top Langs" /></p>
 <hr>
 <h3 align="left">Github Stats:</h3>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=jesusestime&show_icons=true&locale=en" alt="pegasus03 /></p>
-<p align="left"><img SRC="code.gif" width="300" height="192"></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=jesusestime&show_icons=true&theme=synthwave&count_private=true" alt="jesusestime :: Profile Stats" /></p>
+<p align="left" style={border=2px black solid}><img SRC="code.gif" width="300" height="192"></p>
+<hr>
+<h2 align="center">GitHub Activity Graph</h2>
+
+<a href="https://github.com/jesusestime"><img alt="estimejesus's activity graph" src="https://activity-graph.herokuapp.com/graph?username=jesusestime&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 <hr>
 <h3>Quote</h3>
 <blockquote>My favorite 10,000 hour rule, says it takes about 10,000 hours to master a skill and become successful at something. It is going to take a lot of time to become successful, so fall in love with the process.</blockquote>
