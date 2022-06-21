@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text= Welcome !🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=  Welcome !🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <h1 align="center">Hi 👋, I'm NDAGUHEREJE Jésus Estimé</h1>
 <h3 align="center">A passionate web developer from Burundi</h3>
@@ -55,7 +55,7 @@
 
 <hr>
 <h3 align="left">📈 &nbsp;Github Stats:</h3>
-<p align="left">
+<p align="center">
 <a href="https://github.com/jesusestime">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesusestime&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusestime&theme=noctis_minimus&layout=compact" />
