@@ -38,8 +38,8 @@
 <a href="https://github.com/jesusestime"><img alt="estimejesus's activity graph" src="https://activity-graph.herokuapp.com/graph?username=jesusestime&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 <hr>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jesusestime&style=flat-square&color=yellow" alt="" width="15%" height="15%"/>
-<img src="https://visitor-badge.glitch.me/badge?page_id=wavescats" width="15%" height="15%"> 
+
+
 </div>
 
 
