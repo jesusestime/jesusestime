@@ -60,7 +60,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesusestime&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusestime&theme=noctis_minimus&layout=compact" />
 </a></p>
-<p align="center" style={border=2px black solid;margin-left=30px} style="margin-left: 30px;"> <img SRC="code.gif" width="300" height="192"></p>
+<p align="center" style={border=2px black solid;margin-left=30px} style="margin-left: 30px;"> <img SRC="code.gif" width="400" height="292"></p>
 <hr>
 <h2 align="center">📈 &nbsp;GitHub Activity Graph</h2>
 
