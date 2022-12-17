@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=  Welcome !🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 <h1 align="center">Hi 👋, I'm NDAGUHEREJE Jésus Estimé</h1>
 <h3 align="center">A passionate web developer from Burundi</h3>
 <hr>
