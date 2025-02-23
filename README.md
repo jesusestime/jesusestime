@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm NDAGUHEREJE Jésus Estimé</h1>
+<h1 align="center">Hi 👋, I'm Jésus Estimé</h1>
 <h3 align="center">A passionate web developer from Burundi</h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusestime&label=Profile%20views&color=0e75b6&style=flat" alt="jesusestime" /> </p>
