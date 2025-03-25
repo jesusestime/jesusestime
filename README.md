@@ -21,12 +21,6 @@ I’m a full-stack developer from Burundi, blending creativity and technical exp
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://instagram.com/jesusestime" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="35" width="45" />
-  </a>
-  <a href="https://www.hackerrank.com/estimejesus" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="Hackerrank" height="35" width="45" />
-  </a>
   <a href="https://linkedin.com/in/jesus-estime" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="45" />
   </a>
