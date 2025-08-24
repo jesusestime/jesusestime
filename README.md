@@ -13,14 +13,11 @@ I’m a full-stack developer from Burundi, blending creativity and technical exp
 
 - 🔧 **Core Stack**: Python, Django, PHP, JavaScript, HTML5, CSS3  
 - 🌱 **Leveling Up**: React, Node.js, Symfony, Docker  
-- 👨‍💻 **Codebase**: Discover my work on [GitHub](https://github.com/jesusestime)  
 - 📧 **Get in Touch**: [estimejesus@gmail.com](mailto:estimejesus@gmail.com)  
 - ⚡ **Passions**: Driving the open road | Solving complex problems | Embracing new tech  
 
 ---
 
-
----
 
 ### 💡 My Mindset
 > "Every line of code is a mile on the journey—stay curious, keep moving, and enjoy the ride."  
@@ -28,6 +25,5 @@ I’m a full-stack developer from Burundi, blending creativity and technical exp
 ---
 
 <div align="center">
-  <p>Ready to collaborate on something epic? Let’s hit the ground running! 🚗✨</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </div>
